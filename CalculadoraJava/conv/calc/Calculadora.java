@@ -1,4 +1,4 @@
-package reto.conversion.calc;
+package reto.conversion.CalculadoraJava.conv.calc;
 
 public class Calculadora {
     double fahrenheit;

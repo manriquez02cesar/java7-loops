@@ -1,6 +1,6 @@
-package reto.conversion.conv;
+package reto.conversion.CalculadoraJava.conv;
 
-import reto.conversion.calc.Calculadora;
+import reto.conversion.CalculadoraJava.conv.calc.Calculadora;
 import java.util.Scanner;
 
 public class Convertir {
